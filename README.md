@@ -22,7 +22,7 @@
 - 🌍 Founder of a **Design Thinking & Innovation Club**.  
 - ☁️ Experience with **AWS Projects** (Automated Emailing, Deployments).  
 - 💡 Exploring **Blockchain & Web3**.  
-- 📄 [MY RESUME](https://drive.google.com/file/d/1hhJLFmU82_1IU5wCygzlNQ7_vLE6nu5v/view?usp=sharing) | 🌐 [MY WEBSITE](#).  
+- 📄 [MY RESUME](https://drive.google.com/file/d/1hhJLFmU82_1IU5wCygzlNQ7_vLE6nu5v/view?usp=sharing) | 🌐 [MY WEBSITE](https://universityinnovation.org/wiki/Fellow:Md_Ahsan).  
 - 🎯 Aspiring to become one of the **Top Tech Entrepreneurs in the World**.  
 
 ---
